@@ -18,3 +18,4 @@ success{
 echo 'Pipeline completed successfully'
 }
 }
+}
